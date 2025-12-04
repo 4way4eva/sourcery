@@ -9,7 +9,7 @@ pip install numpy
 Create the file evolverse_omega_core.py with the simulation code I gave you. Run:
 python evolverse_omega_core.py
 You’ll get a EVOLVERSE_STATE.json—that’s your physics + ecology snapshot.
-
+28
 2. Make the visual layer
 Save this as visualize_evolverse.html in the same folder.
 <!DOCTYPE html>
